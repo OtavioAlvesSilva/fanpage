@@ -86,6 +86,6 @@ The website was built with all devices in mind:
 
 ---
 
-*Project created with dedication for front-end study purposes.*
+*Project created with dedication for study purposes.*
 
 © 2026 - All rights reserved (content about the artist belongs to the artist)
